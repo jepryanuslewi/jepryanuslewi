@@ -1,16 +1,36 @@
-## Hi there 👋
+![JepryanusLewi](images/github-header-image.png)
 
-<!--
-**jepryanuslewi/jepryanuslewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
 
-Here are some ideas to get you started:
+💡 **About Me**  `  
+- 🌱 I’m currently learning: Flutter, Dart, Firebase, JavaScript  
+- 💬 Ask me about: Android Dev, Front End Development  
+- 📫 How to reach me: jepryanuslewi@gmail.com  
+- ⚡ Fun fact: I can debug with one eye closed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Tech Stack**  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![JavaScript](https://img.shields.io/badge/-JS-3776AB?style=flat&logo=javascript)
+![Html](https://img.shields.io/badge/-HTML-0076A8?style=flat&logo=html)
+![Css](https://img.shields.io/badge/-CSS-0076A8?style=flat&logo=css)
+![Xampp](https://img.shields.io/badge/-Xampp-0076A8?style=flat&logo=xampp)
+![FireBase](https://img.shields.io/badge/-Firebase-0076A8?style=flat&logo=firebase)
+
+---
+
+📈 **GitHub Stats**  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jepryanuslewi&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jepryanuslewi&theme=radical" />
+</p>
+
+---
+
+🌍 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jepryanuslewi)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jepryanuslewi)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web)](https://jecu.dev) -->
