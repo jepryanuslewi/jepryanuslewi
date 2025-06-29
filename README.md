@@ -31,6 +31,6 @@
 ---
 
 🌍 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jepryanuslewi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jepryanus-lewi-3a1285372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jepryanuslewi)
 [![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web)](https://jecu.dev) -->
