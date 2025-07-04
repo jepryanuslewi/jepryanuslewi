@@ -1,4 +1,4 @@
-![JepryanusLewi](images/github-header-image.png)
+![JepryanusLewi](mygithub.png)
 
 ---
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
