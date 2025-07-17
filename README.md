@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
 
 💡 **About Me**  `  
-- 🌱 I’m currently learning: Flutter, Dart, Firebase, JavaScript  
+- 🌱 I’m currently learning: Flutter, Dart, Firebase, JavaScript, TypeScript, Html, Css
 - 💬 Ask me about: Android Dev, Front End Development  
 - 📫 How to reach me: jepryanuslewi@gmail.com  
 - ⚡ Fun fact: I can debug with one eye closed
