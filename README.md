@@ -19,6 +19,7 @@
 ![Css](https://img.shields.io/badge/-CSS-0076A8?style=flat&logo=css)
 ![Xampp](https://img.shields.io/badge/-Xampp-0076A8?style=flat&logo=xampp)
 ![FireBase](https://img.shields.io/badge/-Firebase-0076A8?style=flat&logo=firebase)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0076A8?style=flat&logo=TypeScript)
 
 ---
 
