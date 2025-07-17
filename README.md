@@ -26,10 +26,13 @@
 📈 **GitHub Stats**  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jepryanuslewi&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jepryanuslewi&theme=radical" />
 </p>
-<p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jepryanuslewi&theme=radical" /></p>
+
 
 ---
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jepryanuslewi&layout=compact&theme=radical)
+
 
 🌍 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jepryanus-lewi-3a1285372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
