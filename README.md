@@ -20,6 +20,7 @@
 ![Xampp](https://img.shields.io/badge/-Xampp-0076A8?style=flat&logo=xampp)
 ![FireBase](https://img.shields.io/badge/-Firebase-0076A8?style=flat&logo=firebase)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0076A8?style=flat&logo=TypeScript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-0076A8?style=flat&logo=React)
 
 ---
 
