@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
 
 💡 **About Me**  `  
-- 🌱 I’m currently learning: Flutter, Dart, Firebase, JavaScript, TypeScript, Html, Css, ReactJs
+- 🌱 I’m currently learning: Flutter, Dart, Firebase, JavaScript, Html, Css, ReactJs
 - 💬 Ask me about: Android Dev, Front End Development  
 - 📫 How to reach me: jepryanuslewi@gmail.com  
 - ⚡ Fun fact: I can debug with one eye closed
@@ -19,7 +19,6 @@
 ![Css](https://img.shields.io/badge/-CSS-0076A8?style=flat&logo=css)
 ![Xampp](https://img.shields.io/badge/-Xampp-0076A8?style=flat&logo=xampp)
 ![FireBase](https://img.shields.io/badge/-Firebase-0076A8?style=flat&logo=firebase)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0076A8?style=flat&logo=TypeScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-0076A8?style=flat&logo=React)
 
 ---
